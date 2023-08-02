@@ -33,6 +33,8 @@ Machine learning from scratch - frameworks' functions in pure python **11 videos
 
 Анализ данных просто и доступно **95 videos** [Igor Kleiner Ph.D.](https://www.youtube.com/playlist?list=PLUfHxBkkFMSfvgd_rAzt8iM9foo9sbcFx)
 
+Intro to Machine Learning [Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning)
+
 ---
 #### III. Software developer cources
 
