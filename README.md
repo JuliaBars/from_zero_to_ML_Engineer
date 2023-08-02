@@ -26,6 +26,8 @@ Statistics base [Karpov.courses Stepik](https://stepik.org/course/76/syllabus)
 
 Deep Learning School МФТИ **50 videos** [базовый курс](https://www.youtube.com/playlist?list=PL0Ks75aof3Th84kETSlJq_ja-xqLtWov1)
 
+Harvard University CS50 Machine Learning **6 videos** [link](https://www.youtube.com/playlist?list=PLev3wYDe24HJvAcOi8-CIcIBembBE70GF)
+
 Machine learning with Selfedu **47 videos** [link](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8zxDIDOTQHsX68MCDOAJDtj)
 
 Machine learning from scratch - frameworks' functions in pure python **11 videos** [AssemblyIA](https://www.youtube.com/playlist?list=PLcWfeUsAys2k_xub3mHks85sBHZvg24Jd)
