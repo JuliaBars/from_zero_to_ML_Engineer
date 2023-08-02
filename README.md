@@ -4,7 +4,7 @@ I've checked all resources)) and all of them are awesome and absolutely free...
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Colab](https://img.shields.io/badge/google_colaboratory-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 
-#### I. Mathematics and statistics
+## I. Mathematics and statistics
 
 The basics of math to understand ML engine:
 
@@ -21,7 +21,7 @@ Karpov.courses - [Base math](https://karpov.courses/mathsds)
 Statistics base [Karpov.courses Stepik](https://stepik.org/course/76/syllabus)
 
 ----
-#### II. Free ML Courses
+## II. Free ML Courses
 
 Deep Learning School МФТИ **50 videos** [базовый курс](https://www.youtube.com/playlist?list=PL0Ks75aof3Th84kETSlJq_ja-xqLtWov1)
 
@@ -36,7 +36,7 @@ Machine learning from scratch - frameworks' functions in pure python **11 videos
 Intro to Machine Learning [Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning)
 
 ---
-#### III. Software developer cources
+## III. Software developer cources
 
 Orange data mining software [Getting Started with Orange](https://www.youtube.com/watch?v=HXjnDIgGDuI&list=PLmNPvQr9Tf-ZSDLwOzxpvY-HrE0yv-8Fy)
 
