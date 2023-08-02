@@ -40,3 +40,5 @@ Orange data mining software [Getting Started with Orange](https://www.youtube.co
 
 ----
 
+## Roadmap for beginners [AssemblyIA GitHub](https://github.com/AssemblyAI-Examples/ML-Study-Guide)
+
