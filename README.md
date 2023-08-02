@@ -7,13 +7,12 @@ I've checked all resources)) and all of them are awesome and absolutely free...
 #### I. Mathematics and statistics
 
 The basics of math to understand ML engine:
-Khan Academy - [Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
 
-Khan Academy - [Differential Equations](https://www.khanacademy.org/math/differential-equations)
-
-Khan Academy - [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
-
-Khan Academy - [Statistics Probability](https://www.khanacademy.org/math/statistics-probability)
+Khan Academy:  
+[Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)  
+[Differential Equations](https://www.khanacademy.org/math/differential-equations)  
+[Linear Algebra](https://www.khanacademy.org/math/linear-algebra)  
+[Statistics Probability](https://www.khanacademy.org/math/statistics-probability)
 
 Optional - 3Blue1Brown - [Essence of Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra)
 
