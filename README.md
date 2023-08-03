@@ -37,6 +37,8 @@ Intro to Machine Learning [Kaggle](https://www.kaggle.com/learn/intro-to-machine
 
 Machine Learning Zoomcamp **114 videos** [DataTalksClub](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR)
 
+Машинное обучение НИУ ВШЭ [часть 1](http://wiki.cs.hse.ru/Машинное_обучение_1) [часть 2](http://wiki.cs.hse.ru/Основы_машинного_обучения)
+
 ---
 ## III. Software developer cources
 
