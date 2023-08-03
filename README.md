@@ -35,6 +35,8 @@ Machine learning from scratch - frameworks' functions in pure python **11 videos
 
 Intro to Machine Learning [Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning)
 
+Machine Learning Zoomcamp **114 videos** [DataTalksClub](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR)
+
 ---
 ## III. Software developer cources
 
