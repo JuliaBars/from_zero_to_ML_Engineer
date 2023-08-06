@@ -31,7 +31,7 @@ Machine learning with Selfedu **47 videos** [link](https://www.youtube.com/playl
 
 Machine learning from scratch - frameworks' functions in pure python **11 videos** [AssemblyIA](https://www.youtube.com/playlist?list=PLcWfeUsAys2k_xub3mHks85sBHZvg24Jd)
 
-Анализ данных просто и доступно **95 videos** [Igor Kleiner Ph.D.](https://www.youtube.com/playlist?list=PLUfHxBkkFMSfvgd_rAzt8iM9foo9sbcFx)
+Анализ данных просто и доступно **95 videos** [Stepik cource](https://stepik.org/course/73952/syllabus) 
 
 Intro to Machine Learning [Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning)
 
