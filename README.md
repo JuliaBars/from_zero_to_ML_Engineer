@@ -25,6 +25,16 @@ Statistics base [Karpov.courses Stepik](https://stepik.org/course/76/syllabus)
 
 Deep Learning School МФТИ **50 videos** [базовый курс](https://www.youtube.com/playlist?list=PL0Ks75aof3Th84kETSlJq_ja-xqLtWov1)
 
+Stanford CS230: Deep Learning **10 videos** [link](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
+
+Stanford CS229: Machine Learning Full Course **20 videos** [link](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+
+Stanford CS221: Artificial Intelligence: Principles and Techniques **56 videos** [link](https://www.youtube.com/playlist?list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2)
+
+Stanford CS224U: Natural Language Understanding **63 videos** [link](https://www.youtube.com/playlist?list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ)
+
+MIT 6.S191: Introduction to Deep Learning **63 videos** [link](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+
 Harvard University CS50 Machine Learning **6 videos** [link](https://www.youtube.com/playlist?list=PLev3wYDe24HJvAcOi8-CIcIBembBE70GF)
 
 Machine learning with Selfedu **47 videos** [link](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8zxDIDOTQHsX68MCDOAJDtj)
