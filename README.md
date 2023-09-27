@@ -23,6 +23,8 @@ Statistics base [Karpov.courses Stepik](https://stepik.org/course/76/syllabus)
 ----
 ## II. Free ML Courses
 
+Excellent article - a short introductory in ML for beginners [link](https://vas3k.blog/blog/machine_learning/)
+
 Deep Learning School МФТИ **50 videos** [базовый курс](https://www.youtube.com/playlist?list=PL0Ks75aof3Th84kETSlJq_ja-xqLtWov1)
 
 Stanford CS230: Deep Learning **10 videos** [link](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
