@@ -27,6 +27,8 @@ Excellent article - a short introductory in ML for beginners [link](https://vas3
 
 Deep Learning School МФТИ **50 videos** [базовый курс](https://www.youtube.com/playlist?list=PL0Ks75aof3Th84kETSlJq_ja-xqLtWov1)
 
+Для совсем новичков: Курс по машинному обучению. Проект «ИИ Старт» [link](https://stepik.org/course/125587/promo)
+
 Stanford CS230: Deep Learning **10 videos** [link](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
 
 Stanford CS229: Machine Learning Full Course **20 videos** [link](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
