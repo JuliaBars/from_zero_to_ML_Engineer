@@ -56,6 +56,8 @@ Machine Learning Zoomcamp **114 videos** [DataTalksClub](https://www.youtube.com
 ---
 ## III. Software developer cources
 
+Amazing visualization with Tensorflow [Tinker With a Neural Network Right Here in Your Browser](https://playground.tensorflow.org/)
+
 Orange data mining software [Getting Started with Orange](https://www.youtube.com/watch?v=HXjnDIgGDuI&list=PLmNPvQr9Tf-ZSDLwOzxpvY-HrE0yv-8Fy)
 
 ----
