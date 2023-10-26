@@ -20,6 +20,8 @@ Karpov.courses - [Base math](https://karpov.courses/mathsds)
 
 Statistics base [Karpov.courses Stepik](https://stepik.org/course/76/syllabus)
 
+Матан МГУ [лекции](https://teach-in.ru/course/mathan1)
+
 ----
 ## II. Free ML Courses
 
@@ -52,6 +54,9 @@ Intro to Machine Learning [Kaggle](https://www.kaggle.com/learn/intro-to-machine
 Machine Learning Zoomcamp **114 videos** [DataTalksClub](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR)
 
 Машинное обучение НИУ ВШЭ [часть 1](http://wiki.cs.hse.ru/Машинное_обучение_1) [часть 2](http://wiki.cs.hse.ru/Основы_машинного_обучения)
+
+ Deep Learning in Finance from Alfabank [link](https://ods.ai/tracks/dl_in_finance)
+
 
 ---
 ## III. Software developer cources
