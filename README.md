@@ -22,6 +22,8 @@ Statistics base [Karpov.courses Stepik](https://stepik.org/course/76/syllabus)
 
 Матан МГУ [лекции](https://teach-in.ru/course/mathan1)
 
+Vision introduction to Probability and Statistics [link](https://seeing-theory.brown.edu/basic-probability/index.html)
+
 ----
 ## II. Free ML Courses
 
