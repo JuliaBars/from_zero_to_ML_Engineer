@@ -57,7 +57,9 @@ Machine Learning Zoomcamp **114 videos** [DataTalksClub](https://www.youtube.com
 
 Машинное обучение НИУ ВШЭ [часть 1](http://wiki.cs.hse.ru/Машинное_обучение_1) [часть 2](http://wiki.cs.hse.ru/Основы_машинного_обучения)
 
- Deep Learning in Finance from Alfabank [link](https://ods.ai/tracks/dl_in_finance)
+Deep Learning in Finance from Alfabank [link](https://ods.ai/tracks/dl_in_finance)
+
+Много бесплатных курсов по разным веткам ML [ods.ai](https://ods.ai/)
 
 
 ---
