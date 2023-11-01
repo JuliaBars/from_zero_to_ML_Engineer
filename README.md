@@ -27,7 +27,7 @@ Vision introduction to Probability and Statistics [link](https://seeing-theory.b
 ----
 ## II. Free ML Courses
 
-Лучшая визуализация статистики и ML на канале [StatQuest](https://www.youtube.com/watch?v=zxagGtF9MeU&list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
+Лучшая визуализация статистики и ML на канале [StatQuest with Josh Starmer](https://www.youtube.com/watch?v=zxagGtF9MeU&list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
 
 Excellent article - a short introductory in ML for beginners [link](https://vas3k.blog/blog/machine_learning/)
 
