@@ -14,7 +14,10 @@ Khan Academy:
 [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)  
 [Statistics Probability](https://www.khanacademy.org/math/statistics-probability)
 
-Optional - 3Blue1Brown - [Essence of Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra)
+3Blue1Brown:
+[Essence of Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra)
+[Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+
 
 Karpov.courses - [Base math](https://karpov.courses/mathsds)
 
