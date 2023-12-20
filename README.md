@@ -18,6 +18,9 @@ Khan Academy:
 [Essence of Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra)\
 [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
+Dive into DL:\
+[math for ML](https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/geometry-linear-algebraic-ops.html)
+
 
 Karpov.courses - [Base math](https://karpov.courses/mathsds)
 
@@ -66,6 +69,7 @@ Deep Learning in Finance from Alfabank [link](https://ods.ai/tracks/dl_in_financ
 
 Много бесплатных курсов по разным веткам ML [ods.ai](https://ods.ai/)
 
+ШАД Воронцов ML [yandex](https://www.youtube.com/playlist?list=PLJOzdkh8T5krxc4HsHbB8g8f0hu7973fK)
 
 ---
 ## III. Software developer cources
