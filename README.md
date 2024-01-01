@@ -71,6 +71,8 @@ Deep Learning in Finance from Alfabank [link](https://ods.ai/tracks/dl_in_financ
 
 ШАД Воронцов ML [yandex](https://www.youtube.com/playlist?list=PLJOzdkh8T5krxc4HsHbB8g8f0hu7973fK)
 
+Подготовка к поступлению в ШАД Яндекса [ссылка](https://github.com/koddo/shad-prep)
+
 ---
 ## III. Software developer cources
 
