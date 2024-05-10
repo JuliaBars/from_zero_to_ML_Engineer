@@ -73,6 +73,8 @@ Deep Learning in Finance from Alfabank [link](https://ods.ai/tracks/dl_in_financ
 
 Подготовка к поступлению в ШАД Яндекса [ссылка](https://github.com/koddo/shad-prep)
 
+Dive into Deep Learning [link](https://d2l.ai/)
+
 ---
 ## III. Software developer cources
 
